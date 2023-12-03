@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Moviflix-app/static/css/main.409288ec.css",
+    "main.js": "/Moviflix-app/static/js/main.3b209f53.js",
+    "static/js/787.e5788219.chunk.js": "/Moviflix-app/static/js/787.e5788219.chunk.js",
+    "static/media/SG.png": "/Moviflix-app/static/media/SG.d1aac9493c51a8cae497.png",
+    "static/media/BP.png": "/Moviflix-app/static/media/BP.30d3374ae79296f5dc70.png",
+    "static/media/MH.png": "/Moviflix-app/static/media/MH.9c7b3df7fae7dcfe6f33.png",
+    "index.html": "/Moviflix-app/index.html",
+    "main.409288ec.css.map": "/Moviflix-app/static/css/main.409288ec.css.map",
+    "main.3b209f53.js.map": "/Moviflix-app/static/js/main.3b209f53.js.map",
+    "787.e5788219.chunk.js.map": "/Moviflix-app/static/js/787.e5788219.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409288ec.css",
+    "static/js/main.3b209f53.js"
+  ]
+}
